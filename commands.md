@@ -1,4 +1,4 @@
-## Can you give me the commands used to create the virtualbox which is based on vagrant box?
+## Can you give me the commands used to create the virtualbox which is based on vagrant box (generic/ubuntu2204)?
 
 Sure, here are the basic commands to create a VirtualBox virtual machine based on a Vagrant box:
 
